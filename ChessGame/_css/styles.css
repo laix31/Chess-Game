@@ -39,7 +39,7 @@ span[id*=p-]{
 
 .color-path{
     border: 2px solid #7c8bc4;
-    background-color: red !important;
+    background-color: blue !important;
 }
 
 .kill-cell-color{
